@@ -13,12 +13,9 @@
 
 ### 👨‍💻 Programming Languages  
 <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50" alt="Python GIF"/>
+<img src="https://www.r-project.org/logo/Rlogo.png" width="50" alt="R Logo"/>
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="50" alt="MySQL Logo"/>
 
-
-![R Programming](https://www.r-project.org/logo/Rlogo.png
-)
-
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 📊 Visualization  
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
