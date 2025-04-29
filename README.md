@@ -1,7 +1,7 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=akashbakshi999)
+
 ## Hi 👋
 I am Akash
-
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=akashbakshi999)
 
 <!--
 **akashbakshi999/akashbakshi999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
