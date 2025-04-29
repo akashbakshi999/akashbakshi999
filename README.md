@@ -12,9 +12,11 @@
 ## 🧰 Skills & Tools
 
 ### 👨‍💻 Programming Languages  
-<img src="https://media.tenor.com/images/7f6e6b5f7b6b4f6a8e6f6e6b5f7b6b4f/tenor.gif" width="50" alt="Python GIF"/>
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="400" alt="Python GIF"/>
 
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+
+![R Programming](https://media.giphy.com/media/your-gif-id/giphy.gif)
+
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 📊 Visualization  
