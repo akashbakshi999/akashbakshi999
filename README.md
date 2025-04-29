@@ -12,10 +12,11 @@
 ## 🧰 Skills & Tools
 
 ### 👨‍💻 Programming Languages  
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="400" alt="Python GIF"/>
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50" alt="Python GIF"/>
 
 
-![R Programming](https://media.giphy.com/media/your-gif-id/giphy.gif)
+![R Programming](https://www.r-project.org/logo/Rlogo.png
+)
 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
