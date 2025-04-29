@@ -12,7 +12,8 @@
 ## 🧰 Skills & Tools
 
 ### 👨‍💻 Programming Languages  
-![Python GIF](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
+[![Python GIF](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif
+)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
