@@ -2,10 +2,6 @@
 
 <h1 align="center">📊 Data Science & Analytics Portfolio</h1>
 
-<p align="center">
-  <img src="[https://https://github.com/akashbakshi999/akashbakshi999/blob/main/images.jpg]" width="600" alt="Dashboard Banner"/>
-</p>
-
 ---
 
 🎓 **Intern - Data Science & Analytics**  
@@ -16,7 +12,7 @@
 ## 🧰 Skills & Tools
 
 ### 👨‍💻 Programming Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://www.python.org/)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
