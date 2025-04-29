@@ -3,33 +3,56 @@
 <h1 align="center">📊 Data Science & Analytics Portfolio</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-url.png" width="600" alt="Dashboard Banner"/>
+  <img src="https://user-images.githubusercontent.com/00000000/your-dashboard-banner.png" width="600" alt="Dashboard Banner"/>
 </p>
 
 ---
 
 🎓 **Intern - Data Science & Analytics**  
-🔧 Tools: `Python`, `R`, `SQL`, `Excel`, `Tableau`, `Power BI`  
-📚 Libraries: `pandas`, `scikit-learn`, `seaborn`, `matplotlib`, `math`, `NumPy`
+🔍 Passionate about turning data into actionable insights using modern tools & technologies.
 
 ---
 
-## 🚀 Projects
+## 🧰 Skills & Tools
 
-- **🎯 Titanic Survival Prediction** — Logistic Regression, Streamlit app  
-- **🛍 Market Basket Analysis** — Apriori Algorithm, Association Rules  
-- **📈 Sales Dashboard** — Power BI with dynamic KPIs  
-- **👥 Customer Segmentation** — K-Means Clustering  
-- **📊 Campaign Analytics** — Tableau ROI tracking
+### 👨‍💻 Programming Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### 📊 Visualization  
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+### 🧠 Machine Learning & Libraries  
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-47B8E0?style=flat)
+![Math](https://img.shields.io/badge/-Math-FFD43B?style=flat)
 
 ---
 
-## 📎 Connect
+## 🚀 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/your-profile)  
-📧 Email: your-email@example.com
+| Project | Description | Tools |
+|--------|-------------|-------|
+| 🎯 Titanic Prediction | Logistic Regression with Streamlit | Python, Sklearn |
+| 🛒 Market Basket Analysis | Apriori Algorithm on retail data | Python, Mlxtend |
+| 📊 Sales Dashboard | Interactive BI Dashboard | Power BI |
+| 📈 Campaign Analytics | ROI, LTV, Acquisition funnel | Excel, Tableau |
+| 👥 Customer Segmentation | K-Means Clustering | Python, Seaborn |
 
 ---
 
-> “Without data, you’re just another person with an opinion.” – W. Edwards Deming
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/akashbakshi999)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akash.bakshi999@gmail.com)
+
+---
+
+> *"Without data, you're just another person with an opinion." – W. Edwards Deming*
 
