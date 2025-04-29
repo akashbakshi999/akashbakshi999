@@ -3,7 +3,7 @@
 <h1 align="center">📊 Data Science & Analytics Portfolio</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/00000000/your-dashboard-banner.png" width="600" alt="Dashboard Banner"/>
+  <img src="[https://user-images.githubusercontent.com/00000000/your-dashboard-banner.png](https://github.com/akashbakshi999/akashbakshi999/blob/main/business-dashboard-finance-management-on-600nw-2139751897.webp)" width="600" alt="Dashboard Banner"/>
 </p>
 
 ---
