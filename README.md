@@ -12,7 +12,10 @@
 ## 🧰 Skills & Tools
 
 ### 👨‍💻 Programming Languages  
-![Python](https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Ffree-animation%2Fpython-logo-X60VRy17Ng&psig=AOvVaw3pRsNlqmAjonc-TIowx5Es&ust=1745996704929000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODZv97W_IwDFQAAAAAdAAAAABAE)
+## 🐍 Python in Action
+
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="400" alt="Python GIF"/>
+
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
