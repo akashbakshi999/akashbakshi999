@@ -17,19 +17,19 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"width="50" height="50"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://www.zend.com/sites/default/files/image/2020-04/image-blog-mysql-php.jpg" alt="MySQL" width="50" height="50"/>
+    <img src="https://camo.githubusercontent.com/3c3a5c5131382bd7cf36fe48618dfd2c254879588e61fcb15c61e569b373e051/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3734372f3739382f706e672d7472616e73706172656e742d6d7973716c2d6c6f676f2d6d7973716c2d64617461626173652d7765622d646576656c6f706d656e742d636f6d70757465722d736f6674776172652d646f6c7068696e2d6d6172696e652d6d616d6d616c2d616e696d616c732d746578742d7468756d626e61696c2e706e67" alt="MySQL" width="50" height="50"/>
   </a>
 </p>
 
 ### 📊 Visualization  
 <a href="https://powerbi.microsoft.com/" target="_blank">
-   <img src="https://wakkeit.com/wp-content/uploads/2023/11/pOWERbi-1024x1024.jpg" alt="Power BI" width="50" height="50">
+   <img src="https://avatars.githubusercontent.com/u/42988494?s=280&v=4" alt="Power BI" width="50" height="50">
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RWZ7V2diTnBA5Q83-gITM0hCN9TTawpH0A&s" alt="Excel" width="50" height="50"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsF1oq8eduu1Uy2wpm46piHmRvnGeqXOB0cw&s" alt="Excel" width="50" height="50"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.jpg" alt="Tableau" width="50" height="50" />
+    <img src="https://repository-images.githubusercontent.com/185490328/cc4b7680-71f3-11e9-9d63-6aa57288d839" alt="Tableau" width="50" height="50" />
   </a>
 
 ### 🧠 Machine Learning & Libraries  
