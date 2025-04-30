@@ -12,7 +12,7 @@
 ## 🧰 Skills & Tools
 
 ### 👨‍💻 Programming Languages  
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50" alt="Python GIF"/>          <img src="https://www.r-project.org/logo/Rlogo.png" width="50" alt="R Logo"/>            <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="50" alt="MySQL Logo"/>
+href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>         <img src="https://www.r-project.org/logo/Rlogo.png" width="50" alt="R Logo"/>            <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="50" alt="MySQL Logo"/>
 
 
 ### 📊 Visualization  
