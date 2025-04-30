@@ -19,8 +19,11 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>
+
+### 📊 Visualization  
+<a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fileonjose_free-power-bi-resources-1-power-activity-7126226589800927233-NRO3&psig=AOvVaw2yjMDsmp2_K2vS3QnaDmdv&ust=1746080850140000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCp6pmQ_4wDFQAAAAAdAAAAABAE" alt="Power BI"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
     <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
@@ -28,12 +31,6 @@
   <a href="https://www.tableau.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
   </a>
-</p>
-
-### 📊 Visualization  
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ### 🧠 Machine Learning & Libraries  
 ![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
