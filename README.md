@@ -23,7 +23,7 @@
 
 ### 📊 Visualization  
 <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fileonjose_free-power-bi-resources-1-power-activity-7126226589800927233-NRO3&psig=AOvVaw2yjMDsmp2_K2vS3QnaDmdv&ust=1746080850140000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCp6pmQ_4wDFQAAAAAdAAAAABAE" alt="Power BI"/>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-power-bi-business-intelligence-microsoft-analytics-5028994%2F9.html&psig=AOvVaw2yjMDsmp2_K2vS3QnaDmdv&ust=1746080850140000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCp6pmQ_4wDFQAAAAAdAAAAABAJ" alt="Power BI"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
     <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
