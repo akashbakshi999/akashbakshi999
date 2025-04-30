@@ -23,13 +23,13 @@
 
 ### 📊 Visualization  
 <a href="https://powerbi.microsoft.com/" target="_blank">
-   <img src="https://wakkeit.com/wp-content/uploads/2023/11/pOWERbi-1024x1024.jpg" alt="Description" width="WIDTH" height="HEIGHT">
+   <img src="https://wakkeit.com/wp-content/uploads/2023/11/pOWERbi-1024x1024.jpg" alt="Power BI" width="50" height="50">
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RWZ7V2diTnBA5Q83-gITM0hCN9TTawpH0A&s" alt="Excel" width="50" height="50"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+    <img src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.jpg" alt="Tableau" width="50" height="50" />
   </a>
 
 ### 🧠 Machine Learning & Libraries  
