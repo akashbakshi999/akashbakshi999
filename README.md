@@ -11,8 +11,14 @@
 
 ## 🧰 Skills & Tools
 
-### 👨‍💻 Programming Languages  
-href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>         <img src="https://www.r-project.org/logo/Rlogo.png" width="50" alt="R Logo"/>            <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="50" alt="MySQL Logo"/>
+### 👨‍💻 Programming Languages 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+</p></a> </p>         <img src="https://www.r-project.org/logo/Rlogo.png" width="50" alt="R Logo"/>            <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="50" alt="MySQL Logo"/>
 
 
 ### 📊 Visualization  
