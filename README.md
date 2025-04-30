@@ -56,9 +56,12 @@
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/akashbakshi999)
+<a href="https://www.linkedin.com/in/akashbakshi999/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="70">
+</a>
+
 <a href="mailto:akash.bakshi999@gmail.com">
-  <img src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" alt="Email" width="50" height="40">
+  <img src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" alt="Email" width="50" height="70">
 </a>
 
 ---
