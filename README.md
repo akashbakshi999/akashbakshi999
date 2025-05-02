@@ -39,7 +39,7 @@
 ### 🧠 Machine Learning & Libraries  
 ## 🧰 Libraries Used
 
-<p align="center">
+<p align="left">
   <a href="https://scikit-learn.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="50"/>
   </a>
