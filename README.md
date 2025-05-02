@@ -33,12 +33,29 @@
   </a>
 
 ### 🧠 Machine Learning & Libraries  
-![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-47B8E0?style=flat)
-![Math](https://img.shields.io/badge/-Math-FFD43B?style=flat)
+## 🧰 Libraries Used
+
+<p align="center">
+  <a href="https://scikit-learn.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="50"/>
+  </a>
+  <a href="https://pandas.pydata.org/">
+    <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" height="50"/>
+  </a>
+  <a href="https://numpy.org/">
+    <img src="https://numpy.org/images/logo.svg" alt="numpy" height="50"/>
+  </a>
+  <a href="https://matplotlib.org/">
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" height="50"/>
+  </a>
+  <a href="https://seaborn.pydata.org/">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" height="50"/>
+  </a>
+  <a href="https://docs.python.org/3/library/math.html">
+    <img src="https://www.python.org/static/community_logos/python-logo.png" alt="math" height="50"/>
+  </a>
+</p>
+
 
 ---
 
