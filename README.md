@@ -68,9 +68,11 @@
 | Project | Description | Tools |
 |--------|-------------|-------|
 | 🎯 Titanic Prediction | Logistic Regression with Streamlit | Python, Sklearn |
-| 🛒 Market Basket Analysis | Apriori Algorithm on retail data | Python, Mlxtend |
+| 🎯 Gold Price Prediction | Logistic Regression with Streamlit | Python, Sklearn |
+| 🛒 Market Analysis | Apriori Algorithm on retail data | Python, Mlxtend |
+| 📊 Zomato Booking Analysis Dashboard | Advance Excel | Power BI |
 | 📊 Sales Dashboard | Interactive BI Dashboard | Power BI |
-| 📈 Campaign Analytics | ROI, LTV, Acquisition funnel | Excel, Tableau |
+| 📈 Claim Analytics | ROI, LTV, Acquisition funnel | Excel, Tableau |
 | 👥 Customer Segmentation | K-Means Clustering | Python, Seaborn |
 
 ---
