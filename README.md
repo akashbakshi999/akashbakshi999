@@ -70,8 +70,8 @@
 | 🎯 Titanic Prediction | Logistic Regression with Streamlit | Python, Sklearn |
 | 🎯 Gold Price Prediction | Logistic Regression with Streamlit | Python, Sklearn |
 | 🛒 Market Analysis | Apriori Algorithm on retail data | Python, Mlxtend |
-| 📊 Zomato Booking Analysis Dashboard | Advance Excel | Power BI |
-| 📊 Sales Dashboard | Interactive BI Dashboard | Power BI |
+| 📊 Zomato Booking Analysis Dashboard | Intractive dashboard | Power BI, SQL |
+| 📊 Sales Dashboard | Interactive BI Dashboard | Power BI, Tableau |
 | 📈 Claim Analytics | ROI, LTV, Acquisition funnel | Excel, Tableau |
 | 👥 Customer Segmentation | K-Means Clustering | Python, Seaborn |
 
